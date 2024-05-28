@@ -8,7 +8,7 @@ A WordPress plugin to upload and parse JSON bookmark files, displaying them as a
 
 1. **Download from GitHub**
 
-   - Download the plugin from the GitHub repository: [GitHub Link] (https://github.com/spencerharris63/bookmarks-to-json-wordpress-plugin)
+   - Download the plugin from the GitHub repository: [GitHub Link](https://github.com/spencerharris63/bookmarks-to-json-wordpress-plugin)
    - Extract the downloaded ZIP file.
 
 2. **Activate the Plugin**
